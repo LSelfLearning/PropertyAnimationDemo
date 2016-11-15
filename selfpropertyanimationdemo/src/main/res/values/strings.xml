@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SelfPropertyAnimationDemo</string>
+    <string name="btn_alpha">alpha</string>
+    <string name="btn_rotation">rotation</string>
+    <string name="btn_translate">translate</string>
+    <string name="btn_scale">scale</string>
+    <string name="btn_animset">animset</string>
+    <string name="btn_method2">method2</string>
+</resources>

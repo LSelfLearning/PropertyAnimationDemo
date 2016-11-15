@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PropertyAnimationDemo.iml" filepath="$PROJECT_DIR$/PropertyAnimationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimationdemo/propertyanimationdemo.iml" filepath="$PROJECT_DIR$/propertyanimationdemo/propertyanimationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfpropertyanimationdemo/selfpropertyanimationdemo.iml" filepath="$PROJECT_DIR$/selfpropertyanimationdemo/selfpropertyanimationdemo.iml" />
+    </modules>
+  </component>
+</project>
